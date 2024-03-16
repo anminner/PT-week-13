@@ -1,5 +1,5 @@
 .login-form {
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
     padding: 20px;
     width: 300px;
     margin: 0 auto;
@@ -18,14 +18,14 @@ input[type="password"] {
 }
 
 button {
-    background-color: #007bff;
+    background-color: #1900ff;
     color: #fff;
     border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
+    padding: 5px 20px;
+    border-radius: 10px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #00b318;
 }
